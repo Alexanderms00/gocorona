@@ -1,2 +1,2 @@
 # gocorona
-https://alexanderms00.github.io/gocorona/
+https://Vladislavms2002.github.io/gocorona/
